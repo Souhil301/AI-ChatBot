@@ -26,7 +26,7 @@ The chatbot is designed for **educational and testing purposes**, maintaining a 
 ## Project Structure
 ```
 .
-├── Untitled2.ipynb      # Main notebook with chatbot implementation
+├── chatbot.ipynb      # Main notebook with chatbot implementation
 ├── README.md            # Project documentation
 └── .gitignore           # Files excluded from version control
 ```
@@ -74,8 +74,8 @@ cd AI-ChatBot
 ```
 
 
-### Step 3 — Run in Colab / Jupyter
-Open `Untitled2.ipynb` in **Google Colab** or **Jupyter Notebook**, then run all cells step by step.
+### Step 2 — Run in Colab / Jupyter
+Open `chatbot.ipynb` in **Google Colab** or **Jupyter Notebook**, then run all cells step by step.
 
 ---
 
